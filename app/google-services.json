@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "509775838994",
+    "firebase_url": "https://momfood-df0a1-default-rtdb.firebaseio.com",
+    "project_id": "momfood-df0a1",
+    "storage_bucket": "momfood-df0a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509775838994:android:39a524a2d9041d9fb5fdcb",
+        "android_client_info": {
+          "package_name": "com.example.momfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq7BmYgcFvqcBQv3lBBBxYCfCE5XUqcNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
